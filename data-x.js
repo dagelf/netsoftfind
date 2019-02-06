@@ -50,7 +50,7 @@ tags:[]},
 
 {name:"Datatill",
 url:"http://www.datatill.co.za",
-tags:["radius","billing","php","codeigniter","voip"]},
+tags:["radius","billing","php","codeigniter","voip","rmm","sagepay","payfast"]},
 
 {name:"Evolynx Radius",
 url:"http://www.evolynx.com",
@@ -95,7 +95,7 @@ tags:[]},
 {name:"Sonar Software",
 url:"https://sonar.software/",
 description:"ISP Billing & OSS. Modernized. Scalable, intuitive, and comprehensive. Learn why hundreds of ISPs worldwide trust Sonar.",
-tags:["commercial","radius","huge","crm","provision","monitoring","stock","hotspot","portal","api","map"]},
+tags:["commercial","radius","huge","crm","provision","monitoring","stock","hotspot","portal","api","map","rmm"]},
 
 {name:"Spotipo",
 url:"https://spotipo.com/",
@@ -175,7 +175,7 @@ tags:[]},
 
 {name:"Freeside",
 url:"http://www.freeside.biz",
-tags:[]},
+tags:["perl","foss"]},
 
 {name:"Gensoft Billpro",
 url:"http://www.Geneseo.com",
@@ -265,7 +265,7 @@ tags:[]},
 
 {name:"WHMCS",
 url:"http://www.whmcs.com",
-tags:[]},
+tags:["hosting","self"]},
 
 {name:"Blesta",
 url:"",
@@ -573,11 +573,55 @@ url:"",
 tags:["monitoring"]},
 
 {name:"Cacti",
-url:"",
+url:"https://www.cacti.net/",
 tags:["monitoring"]},
 
-{name:"Cricket",
+{name:"BS&A",
+url:"https://www.bsasoftware.com/",
+tags:["commercial"]},
+
+{name:"Broadhub",
 url:"",
+tags:["commercial"]},
+
+{name:"Freshbooks",
+url:"",
+tags:["commercial"]},
+
+{name:"LeadISP",
+url:"",
+tags:["commercial"]},
+
+{name:"Sage",
+url:"",
+tags:["commercial","accounting","invoicing"]},
+
+{name:"UCRM",
+url:"",
+tags:["ubnt","ubiquiti","crm"]},
+
+{name:"UNMS",
+url:"",
+tags:["ubnt","ubiquiti","nms"]},
+
+{name:"Odoo",
+url:"",
+tags:["accounting","stock","CRM","multilanguage"]},
+
+{name:"Flectra",
+url:"",
+tags:["foss","odoo","accounting","stock","CRM","multilanguage"]},
+
+{name:"Splynx",
+url:"https://splynx.com/",
+tags:["commercial","radius","wiki","ubiquiti","mikrotik","cambium","radwin","juniper","cisco","d-link","payfast","sagepay","authorize.net","braintree","sepa","paypal","gocardless","baicells","signaturit","stripe","wepay","pesapal","ippay","moneris","prepaid","recurring","invoice","ipam","management","rmm","voip","cap","reseller","ticket","stock","blocking","cutoff","crm","customer","roles","api","gdpr"]},
+
+{name:"Quickbooks",
+url:"",
+tags:["commercial","accounting","invoicing"]},
+
+{name:"Cricket",
+url:"http://cricket.sourceforge.net/",
 tags:["monitoring"]}
 
 ];
