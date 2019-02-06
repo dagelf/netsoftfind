@@ -625,13 +625,17 @@ tags:["ticket"]},
 url:"",
 tags:["CRM"]},
 
+{name:"Soliditech",
+url:"https://www.soliditech.com/",
+tags:["CRM","sales","invoice","portal"]},
+
 {name:"Datto",
 url:"https://www.datto.com/",
 tags:["nms","msp","rmm"]},
 
 {name:"eWorksManager",
 url:"https://www.eworksmanager.co.za/",
-tags:["stock","invoice","jobcards"]},
+tags:["stock","invoice","jobcards","assets","maintenance","bpm","app"]},
 
 {name:"Cricket",
 url:"http://cricket.sourceforge.net/",
