@@ -625,6 +625,10 @@ tags:["ticket"]},
 url:"",
 tags:["CRM"]},
 
+{name:"Datto",
+url:"https://www.datto.com/",
+tags:["nms","msp"]},
+
 {name:"Cricket",
 url:"http://cricket.sourceforge.net/",
 tags:["monitoring"]}
