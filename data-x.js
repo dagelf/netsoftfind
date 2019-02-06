@@ -627,7 +627,11 @@ tags:["CRM"]},
 
 {name:"Datto",
 url:"https://www.datto.com/",
-tags:["nms","msp","rmm",]},
+tags:["nms","msp","rmm"]},
+
+{name:"EWorksManager",
+url:"https://www.eworksmanager.co.za/",
+tags:["bpm"]},
 
 {name:"Cricket",
 url:"http://cricket.sourceforge.net/",
