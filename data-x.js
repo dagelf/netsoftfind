@@ -631,7 +631,7 @@ tags:["nms","msp","rmm"]},
 
 {name:"eWorksManager",
 url:"https://www.eworksmanager.co.za/",
-tags:["bpm"]},
+tags:["stock","invoice","jobcards"]},
 
 {name:"Cricket",
 url:"http://cricket.sourceforge.net/",
