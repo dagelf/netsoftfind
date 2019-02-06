@@ -629,7 +629,7 @@ tags:["CRM"]},
 url:"https://www.datto.com/",
 tags:["nms","msp","rmm"]},
 
-{name:"EWorksManager",
+{name:"eWorksManager",
 url:"https://www.eworksmanager.co.za/",
 tags:["bpm"]},
 
