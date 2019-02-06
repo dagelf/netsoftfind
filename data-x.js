@@ -285,7 +285,7 @@ tags:[]},
 
 {name:"Zabbix",
 url:"http://www.zabbix.com",
-tags:[]},
+tags:["monitoring"]},
 
 {name:"Zen Cart",
 url:"http://www.zen-cart.com/",
@@ -616,6 +616,14 @@ tags:["commercial","radius","wiki","ubiquiti","mikrotik","cambium","radwin","jun
 {name:"Quickbooks",
 url:"",
 tags:["commercial","accounting","invoicing"]},
+
+{name:"Zendesk",
+url:"",
+tags:["ticket"]},
+
+{name:"Salesforce",
+url:"",
+tags:["CRM"]},
 
 {name:"Cricket",
 url:"http://cricket.sourceforge.net/",
