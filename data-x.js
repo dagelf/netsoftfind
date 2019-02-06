@@ -614,6 +614,7 @@ tags:["foss","odoo","accounting","stock","CRM","multilanguage"]},
 
 {name:"Splynx",
 url:"https://splynx.com/",
+description: "Splynx Framework – WISP billing and network management",
 tags:["commercial","radius","wiki","ubiquiti","mikrotik","cambium","radwin","juniper","cisco","d-link","payfast","sagepay","authorize.net","braintree","sepa","paypal","gocardless","baicells","signaturit","stripe","wepay","pesapal","ippay","moneris","prepaid","recurring","invoice","ipam","management","rmm","voip","cap","reseller","ticket","stock","blocking","cutoff","crm","customer","roles","api","gdpr"]},
 
 {name:"Quickbooks",
