@@ -556,10 +556,6 @@ tags:[]},
 url:"",
 tags:[]},
 
-{name:"cloudy",
-url:"",
-tags:[]},
-
 {name:"Torrus",
 url:"",
 tags:["monitoring"]},
