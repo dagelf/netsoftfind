@@ -627,7 +627,7 @@ tags:["CRM"]},
 
 {name:"Datto",
 url:"https://www.datto.com/",
-tags:["nms","msp"]},
+tags:["nms","msp","rmm",]},
 
 {name:"Cricket",
 url:"http://cricket.sourceforge.net/",
