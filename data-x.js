@@ -155,7 +155,7 @@ tags:[]},
 
 {name:"Azotel",
 url:"http://www.azotel.com",
-tags:[]},
+tags:["rmm"]},
 
 {name:"Billmax",
 url:"http://www.billmax.com",
