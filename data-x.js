@@ -18,6 +18,11 @@ url:"http://freeradius.org",
 description:"The world’s most widely deployed RADIUS server. Founded in June 1999 by Miquel van Smoorenburg and Alan DeKok.",
 tags:["community","foss","commercial","radius","huge"]},
 
+{name:"Radiusdesk",
+url:"http://radiusdesk.com/",
+description:"Radius frontend created by Dirk van der Walt sometime in 2013",
+tags:["radius","frontend","foss","php","cakephp"]},  
+  
 {name:"Netlink Radius",
 url:"http://netlinkwireless.com",
 description:"Anywhere You Need Public Access WiFi We Have a Solution.",
@@ -37,7 +42,7 @@ tags:[]},
 
 {name:"Aradial",
 url:"http://www.aradial.com",
-description:"Aradial RADIUS server and Aradial Billing Software are servicing ISPs since 1997. High-end ISP's with millions of subscribers and Smaller providers can easily integrate Aradial into their IT and Network infrastructures.",
+description:"Aradial d server and Aradial Billing Software are servicing ISPs since 1997. High-end ISP's with millions of subscribers and Smaller providers can easily integrate Aradial into their IT and Network infrastructures.",
 tags:["radius","huge","billing","prepaid","lte"]},
 
 {name:"Cadebill",
